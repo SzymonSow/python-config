@@ -173,3 +173,5 @@ $ jupyter-notebook --ip=nazwa.servera.com
 # Run Jupyter Lab on a specific server
 $ jupyter-lab --ip=nazwa.servera.com
 ```
+
+# Check
